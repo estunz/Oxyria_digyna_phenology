@@ -1,6 +1,6 @@
 Hello!
-Welcome to the Oxyria_digyna_phenology repository! If you use any of these scripts please cite Stattin Gustavsson et al. (2024). 
-All code run in Stattin Gustavsson et al. [2024] can be found within the "Temperature.R" and "Oxyria_analysis.R" files. Specifically, these scripts 
+Welcome to the Oxyria_digyna_phenology repository! If you use any of these scripts please cite Stunz et al. (2025). 
+All code run in Stunz et al. [2025] can be found within the "Temperature.R" and "Oxyria_analysis.R" files. Specifically, these scripts 
 detail how temperature and elevation data were obtained and how linear 
 regression models and spatial autocorrelation models were run for various 
 O. digyna groups and variables.
@@ -23,8 +23,8 @@ https://pjbartlein.github.io/REarthSysSci/netCDF.html
 
 The Oxyria analysis script loads, reformats, and performs
 analyses on all data available in the repository. More info on
-the process is available in the script. The code under "SAR" is
-adapted from:
+the process is available in the script. The code for Spatial 
+Autoregressive Models under "SAR" is adapted from:
 Faurby, S. (2022). Spatial analyses on a round(ish) planet.
 https://github.com/sorenfaurby/Spatial-R-PhD-course/blob/a3af750e6ddd568a6931f35f65117ae23a9fa4db/Tutorials/tutorial_4.pdf
 
@@ -32,7 +32,7 @@ The ne_110m_land files are world map projections required for
 the SAR-models, and are all loaded through the shapefile
 (ne_110m_land.shp)
 
-ChatGPT was used as a tool in development of all scripts
+ChatGPT was used as a tool in development of all scripts.
 
 *CRU.7z needs to be extracted before running any lines in
 "Temperature.R". Make sure the extracted file is located
