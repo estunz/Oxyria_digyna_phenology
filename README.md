@@ -1,8 +1,7 @@
 Hello!
-Welcome to the Oxyria_digyna_phenology repository! If you use any of these scripts please cite Stunz et al. (2025). 
-All code run in Stunz et al. [2025] can be found within the "Temperature_2025.R" and "Oxyria_analysis_2025.R" files. 
-Briefly, these scripts detail how temperature and elevation data were obtained and how linear regression models and 
-spatial autocorrelation models were built for multiple O. digyna groups and variables.
+Welcome to the Oxyria_digyna_phenology repository! If you use any of these scripts please cite Stunz et al. 2025. 
+All code run in Stunz et al. 2025 can be found within the "Temperature_2025.R" and "Oxyria_analysis_2025.R" files. 
+Briefly, these scripts detail how temperature and elevation data were obtained and how linear regression models and spatial autocorrelation models were built for multiple O. digyna groups and variables.
 
 #---------------------FILE SPECIFICATIONS----------------------#
 
