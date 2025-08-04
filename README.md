@@ -12,7 +12,7 @@ flowers were present or not.
 O_digyna_all_occurrences.csv contains geographical and temporal
 data of all available O. digyna GBIF occurrences.
 
-The temperature script (Temperature_data_2025.R) unpacks the
+The temperature script (Temperature_2025.R) unpacks the
 temperature data (CRU.nc)* and creates .csv files, which is
 required in order to run sections of the Oxyria analysis script
 (Oxyria_analysis_2025.R). This script is adapted from:
