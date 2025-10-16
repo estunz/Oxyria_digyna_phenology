@@ -1,7 +1,7 @@
 Hello!
 Welcome to the Oxyria_digyna_phenology repository! If you use any of these scripts please cite Stunz et al. 2025. 
 All code run in Stunz et al. 2025 can be found within the "Temperature_2025.R" and "Oxyria_analysis_2025.R" files. 
-Briefly, these scripts detail how temperature and elevation data were obtained and how linear regression models and spatial autocorrelation models were built for multiple O. digyna groups and variables. All files except for CRU.7z can be found in the 'main' branch of this repository. To find CRU.7z (large file with all temperature data) see the 'master' branch.
+Briefly, these scripts detail how temperature and elevation data were obtained and how linear regression models and spatial autocorrelation models were built for multiple O. digyna groups and variables. All files except for CRU.7z* can be found in the 'main' branch of this repository. To find CRU.7z (large file with all temperature data) see the 'master' branch.
 
 #---------------------FILE SPECIFICATIONS----------------------#
 
@@ -32,6 +32,5 @@ the SAR-models, and are all loaded through the shapefile
 
 ChatGPT was used as a tool in development of R code.
 
-*CRU.7z needs to be extracted before running any lines in
-"Temperature_2025.R". Make sure the extracted file is located
-in the working directory.
+*CRU.7z needs to be unzipped before running any lines in
+"Temperature_2025.R".
