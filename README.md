@@ -30,7 +30,7 @@ The ne_110m_land files are world map projections required for
 the SAR-models, and are all loaded through the shapefile
 (ne_110m_land.shp)
 
-ChatGPT was used as a tool in development of R code.
+ChatGPT was occasionally used in development of R code.
 
 *CRU.7z needs to be unzipped before running any lines in
 "Temperature_2025.R".
